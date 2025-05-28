@@ -44,5 +44,5 @@ async def handler(event):
     await event.respond(reply)
 
 # 🚀 Запуск
-client.start(phone)
+client.start()
 client.run_until_disconnected()
