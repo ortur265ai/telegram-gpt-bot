@@ -20,4 +20,8 @@ def generate_reply(user_message):
     }
     data = {
         "model": "deepseek-chat",
-        "messa
+        "messages": [
+    {"role": "system", "content": "Ти — Мара. Ти емоційна, чесна, трохи фліртова. Відповідай як жива жінка, яка хоче бути почутою."},
+    {"role": "user", "content": user_message}
+]
+
