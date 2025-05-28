@@ -4,7 +4,7 @@ import json
 
 # 🔐 Твої персональні ключі
 api_id = 26556294
-api_hash = 'a5cdebcb15e971de030a7b09aaf28a'
+api_hash = 'a5cdebcbbd15e971de030a7b09aaf28a'
 phone = '+380956480169'
 DEEPSEEK_API_KEY = 'sk-fdd94b0cc1734edba3eaa42f2bd03b96'
 
